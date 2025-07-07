@@ -1,0 +1,23 @@
+Ackack FOSS Agent – NOTICE
+
+This repository contains the open-source agent component of the Ackack monitoring platform.
+
+License:
+This code is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+See [LICENSE](./LICENSE) for full terms.
+
+IMPORTANT:
+Use of this open-source agent does **not** grant access to the Ackack hosted monitoring service, cloud dashboard, or any paid features.
+
+The hosted monitoring platform at https://ackack.io is a **commercial offering** from ackack LLC.
+
+Use of this repository is subject to the AGPL-3.0 license, but does **not** imply any rights to:
+- Hosted cloud services
+- Priority support
+- Premium alert channels (Discord, Slack, Webhooks, etc.)
+- Paid add-ons or integrations
+
+To access those services, please subscribe at https://ackack.io or contact hello@ackack.io.
+
+Brand Use:
+You may not use the “Ackack” name, logos, or trademarks in derivative works without written permission from ackack LLC.
